@@ -19,7 +19,7 @@ Chương trình giảng dạy này bị ảnh hưởng đáng kể bởi lộ tr
 
 # Những bản dịch
 
-Cảm ơn một số cộng tác viên tuyệt vời mà giáo trình này được dịch ra những ngôn ngữ khác nhau.
+Cảm ơn một số cộng tác viên tuyệt vời và giáo trình này được dịch ra những ngôn ngữ khác nhau.
 
 - [Russian русский](/ru) (Dịch bởi [@Ibochkarev](https://github.com/Ibochkarev) và [@JonikUl](https://github.com/JonikUl))
 - [Chinese 中文](/chinese) (Dịch bởi [@simplefeel](https://github.com/simplefeel))
